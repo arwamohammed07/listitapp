@@ -1,0 +1,33 @@
+/* 
+  Localizable.strings
+  listit!!
+
+  Created by Arwamohammed07 on 13/11/1444 AH.
+  
+*/
+"skip"="تخطي";
+"My List"="قائمتي";
+"editTask"="تعديل";
+"Add New Task"="اضف مهمة جديدة";
+"New Task"="مهمة جديدة";
+"Add Description"="اضف وصفاً";
+"Description"="الوصف";
+"Date"="التاريخ";
+"Add Task"="إضافة مهمة";
+"Save"="حفظ";
+"Cancel"="إلغاء";
+"No Tasks Here!!"="لا توجد مهام هنا !!";
+"Time"="الوقت";
+"Done"="تم";
+"Get Started"="ابدا";
+"New tasks"="مهام جديدة";
+"Voice command"="";
+"Remind"="تنبية";
+
+
+
+
+
+
+
+
